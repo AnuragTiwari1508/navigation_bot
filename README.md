@@ -221,19 +221,3 @@ display_status("Your Message");
 | Right Motor | PA3-PA5 | Control + Enable |
 | LED | PA6 | Status Indicator |
 
-## License
-
-This project is open-source and available for educational and personal use.
-
-## Support
-
-For technical support or questions:
-- Check circuit connections first
-- Verify power supply voltages
-- Review pin assignments in header files
-- Test components individually
-
-## Version History
-
-- **v1.0**: Initial release with basic navigation
-- Current features: Obstacle avoidance, servo scanning, LCD display
